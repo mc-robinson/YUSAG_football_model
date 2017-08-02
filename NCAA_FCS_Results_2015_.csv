@@ -1,0 +1,1245 @@
+"year","month","day","team","opponent","location","teamscore","oppscore","OT","D1"
+2015,9,19,"Abilene Christian","Houston Baptist","H",49,21,NA,2
+2015,9,26,"Abilene Christian","SFA","H",35,32,NA,2
+2015,10,3,"Abilene Christian","Central Ark.","V",14,42,NA,2
+2015,10,10,"Abilene Christian","Lamar University","V",28,44,NA,2
+2015,10,17,"Abilene Christian","Sam Houston St.","H",21,49,NA,2
+2015,10,25,"Abilene Christian","Incarnate Word","V",20,25,NA,2
+2015,10,31,"Abilene Christian","McNeese","H",13,15,NA,2
+2015,11,7,"Abilene Christian","Northwestern St.","V",22,39,NA,2
+2015,11,14,"Abilene Christian","Southeastern La.","H",21,17,NA,2
+2015,11,21,"Abilene Christian","Northern Colo.","V",36,40,NA,2
+2015,9,19,"Alabama A&M","Prairie View","V",49,53,NA,2
+2015,9,26,"Alabama A&M","Ark.-Pine Bluff","H",28,9,NA,2
+2015,10,3,"Alabama A&M","Coastal Caro.","V",0,55,NA,2
+2015,10,10,"Alabama A&M","Grambling","V",14,37,NA,2
+2015,10,17,"Alabama A&M","Jackson St.","H",28,22,NA,2
+2015,10,31,"Alabama A&M","Alabama St.","V",20,35,NA,2
+2015,11,7,"Alabama A&M","Mississippi Val.","H",24,27,1,2
+2015,11,14,"Alabama A&M","Southern U.","V",7,46,NA,2
+2015,11,21,"Alabama A&M","Alcorn","V",10,44,NA,2
+2015,11,28,"Alabama A&M","Texas Southern","H",38,7,NA,2
+2015,9,6,"Alabama St.","Tennessee St.","V",14,24,NA,2
+2015,9,12,"Alabama St.","Alcorn","H",14,31,NA,2
+2015,9,19,"Alabama St.","Grambling","H",10,34,NA,2
+2015,9,26,"Alabama St.","Mississippi Val.","V",45,15,NA,2
+2015,10,1,"Alabama St.","Texas Southern","V",41,23,NA,2
+2015,10,10,"Alabama St.","Southern U.","H",34,45,NA,2
+2015,10,15,"Alabama St.","Ark.-Pine Bluff","V",31,24,NA,2
+2015,10,31,"Alabama St.","Alabama A&M","H",35,20,NA,2
+2015,11,7,"Alabama St.","Jackson St.","V",17,12,NA,2
+2015,11,14,"Alabama St.","Prairie View","H",13,38,NA,2
+2015,9,12,"Albany (NY)","Rhode Island","H",35,7,NA,2
+2015,9,19,"Albany (NY)","James Madison","V",28,42,NA,2
+2015,9,26,"Albany (NY)","Duquesne","H",17,14,NA,2
+2015,10,3,"Albany (NY)","Holy Cross","V",0,37,NA,2
+2015,10,10,"Albany (NY)","Maine","H",7,39,NA,2
+2015,10,17,"Albany (NY)","Villanova","H",0,37,NA,2
+2015,10,31,"Albany (NY)","Richmond","V",31,38,NA,2
+2015,11,7,"Albany (NY)","Delaware","V",17,6,NA,2
+2015,11,14,"Albany (NY)","New Hampshire","H",14,24,NA,2
+2015,11,21,"Albany (NY)","Stony Brook","V",2,20,NA,2
+2015,9,12,"Alcorn","Alabama St.","V",31,14,NA,2
+2015,9,19,"Alcorn","Mississippi Val.","H",55,14,NA,2
+2015,10,3,"Alcorn","Ark.-Pine Bluff","N",61,14,NA,2
+2015,10,17,"Alcorn","Grambling","H",34,35,NA,2
+2015,10,31,"Alcorn","Southern U.","V",48,7,NA,2
+2015,11,7,"Alcorn","Prairie View","H",34,40,NA,2
+2015,11,14,"Alcorn","Texas Southern","V",65,13,NA,2
+2015,11,21,"Alcorn","Alabama A&M","H",44,10,NA,2
+2015,11,28,"Alcorn","Jackson St.","V",14,10,NA,2
+2015,12,5,"Alcorn","Grambling","N",49,21,NA,2
+2015,12,19,"Alcorn","N.C. A&T","N",34,41,NA,2
+2015,9,6,"Ark.-Pine Bluff","South Carolina St.","N",7,35,NA,2
+2015,9,19,"Ark.-Pine Bluff","Texas Southern","H",20,24,NA,2
+2015,9,26,"Ark.-Pine Bluff","Alabama A&M","V",9,28,NA,2
+2015,10,3,"Ark.-Pine Bluff","Alcorn","N",14,61,NA,2
+2015,10,15,"Ark.-Pine Bluff","Alabama St.","H",24,31,NA,2
+2015,10,24,"Ark.-Pine Bluff","Jackson St.","V",3,37,NA,2
+2015,10,31,"Ark.-Pine Bluff","Prairie View","V",29,54,NA,2
+2015,11,7,"Ark.-Pine Bluff","Southern U.","H",24,57,NA,2
+2015,11,14,"Ark.-Pine Bluff","Grambling","H",31,49,NA,2
+2015,11,21,"Ark.-Pine Bluff","Mississippi Val.","V",25,19,1,2
+2015,9,5,"Austin Peay","Mercer","H",7,28,NA,2
+2015,9,26,"Austin Peay","Eastern Ky.","V",13,51,NA,2
+2015,10,3,"Austin Peay","Eastern Ill.","H",16,40,NA,2
+2015,10,10,"Austin Peay","Murray St.","V",18,34,NA,2
+2015,10,17,"Austin Peay","UT Martin","H",14,44,NA,2
+2015,10,24,"Austin Peay","Jacksonville St.","H",7,27,NA,2
+2015,10,31,"Austin Peay","Tennessee St.","V",6,20,NA,2
+2015,11,7,"Austin Peay","Southeast Mo. St.","H",15,44,NA,2
+2015,11,14,"Austin Peay","Tennessee Tech","V",24,42,NA,2
+2015,9,12,"Bethune-Cookman","Grambling","V",56,53,NA,2
+2015,9,26,"Bethune-Cookman","Savannah St.","H",42,12,NA,2
+2015,10,3,"Bethune-Cookman","N.C. Central","V",28,26,NA,2
+2015,10,8,"Bethune-Cookman","South Carolina St.","H",17,14,NA,2
+2015,10,17,"Bethune-Cookman","N.C. A&T","V",14,24,NA,2
+2015,10,24,"Bethune-Cookman","Norfolk St.","H",59,49,NA,2
+2015,10,31,"Bethune-Cookman","Delaware St.","V",49,21,NA,2
+2015,11,7,"Bethune-Cookman","Morgan St.","H",38,14,NA,2
+2015,11,21,"Bethune-Cookman","Florida A&M","N",35,14,NA,2
+2015,9,19,"Brown","Bryant","H",16,20,NA,2
+2015,9,26,"Brown","Harvard","V",27,53,NA,2
+2015,10,3,"Brown","Rhode Island","H",41,31,NA,2
+2015,10,10,"Brown","Holy Cross","V",25,24,NA,2
+2015,10,17,"Brown","Princeton","H",38,31,NA,2
+2015,10,24,"Brown","Cornell","V",44,24,NA,2
+2015,10,31,"Brown","Penn","H",28,48,NA,2
+2015,11,7,"Brown","Yale","V",14,41,NA,2
+2015,11,14,"Brown","Dartmouth","H",18,34,NA,2
+2015,11,20,"Brown","Columbia","V",28,23,NA,2
+2015,9,19,"Bryant","Brown","V",20,16,NA,2
+2015,9,26,"Bryant","Coastal Caro.","V",17,31,NA,2
+2015,10,3,"Bryant","Monmouth","V",24,31,NA,2
+2015,10,10,"Bryant","Central Conn. St.","V",33,35,NA,2
+2015,10,17,"Bryant","Duquesne","H",38,17,NA,2
+2015,10,24,"Bryant","Saint Francis (PA)","H",26,24,NA,2
+2015,10,31,"Bryant","Holy Cross","V",33,34,NA,2
+2015,11,7,"Bryant","Wagner","V",40,10,NA,2
+2015,11,14,"Bryant","Sacred Heart","H",19,28,NA,2
+2015,11,21,"Bryant","Robert Morris","V",20,21,NA,2
+2015,9,5,"Bucknell","Marist","H",17,0,NA,2
+2015,9,12,"Bucknell","Duquesne","H",7,26,NA,2
+2015,9,19,"Bucknell","Cornell","V",19,14,NA,2
+2015,10,3,"Bucknell","VMI","V",28,22,1,2
+2015,10,10,"Bucknell","Lehigh","H",10,21,NA,2
+2015,10,24,"Bucknell","Georgetown","H",9,17,NA,2
+2015,10,31,"Bucknell","Lafayette","V",35,24,NA,2
+2015,11,7,"Bucknell","Fordham","V",16,24,NA,2
+2015,11,14,"Bucknell","Holy Cross","H",7,23,NA,2
+2015,11,21,"Bucknell","Colgate","V",10,14,NA,2
+2015,9,5,"Butler","Indiana St.","V",17,52,NA,2
+2015,9,26,"Butler","Campbell","H",25,24,NA,2
+2015,10,10,"Butler","Morehead St.","V",21,34,NA,2
+2015,10,17,"Butler","Davidson","H",38,7,NA,2
+2015,10,24,"Butler","Dayton","V",24,27,NA,2
+2015,10,31,"Butler","Marist","V",14,35,NA,2
+2015,11,7,"Butler","Valparaiso","H",42,21,NA,2
+2015,11,14,"Butler","Drake","H",20,13,NA,2
+2015,11,21,"Butler","San Diego","V",27,28,NA,2
+2015,9,5,"Cal Poly","Montana","V",20,19,NA,2
+2015,9,19,"Cal Poly","UNI","H",20,34,NA,2
+2015,9,26,"Cal Poly","Montana St.","V",28,45,NA,2
+2015,10,3,"Cal Poly","Idaho St.","H",58,26,NA,2
+2015,10,10,"Cal Poly","Eastern Wash.","V",41,42,1,2
+2015,10,24,"Cal Poly","Portland St.","H",35,38,NA,2
+2015,10,31,"Cal Poly","Southern Utah","V",37,54,NA,2
+2015,11,7,"Cal Poly","Sacramento St.","H",36,14,NA,2
+2015,11,14,"Cal Poly","UC Davis","V",55,38,NA,2
+2015,11,21,"Cal Poly","North Dakota","H",21,45,NA,2
+2015,9,19,"Campbell","Presbyterian","V",13,23,NA,2
+2015,9,26,"Campbell","Butler","V",24,25,NA,2
+2015,10,3,"Campbell","Drake","H",24,14,NA,2
+2015,10,10,"Campbell","Marist","H",10,13,NA,2
+2015,10,17,"Campbell","Stetson","V",16,6,NA,2
+2015,10,24,"Campbell","Morehead St.","H",27,31,NA,2
+2015,10,31,"Campbell","Davidson","V",39,9,NA,2
+2015,11,7,"Campbell","San Diego","V",27,31,NA,2
+2015,11,14,"Campbell","Jacksonville","H",14,20,NA,2
+2015,9,3,"Central Ark.","Samford","V",16,45,NA,2
+2015,9,26,"Central Ark.","Northwestern St.","V",49,21,NA,2
+2015,10,3,"Central Ark.","Abilene Christian","H",42,14,NA,2
+2015,10,10,"Central Ark.","Houston Baptist","V",43,7,NA,2
+2015,10,17,"Central Ark.","McNeese","H",13,28,NA,2
+2015,10,24,"Central Ark.","Lamar University","V",35,17,NA,2
+2015,10,31,"Central Ark.","Southeastern La.","H",21,16,NA,2
+2015,11,7,"Central Ark.","SFA","H",36,24,NA,2
+2015,11,14,"Central Ark.","Nicholls St.","V",34,31,NA,2
+2015,11,21,"Central Ark.","Sam Houston St.","H",13,42,NA,2
+2015,9,4,"Central Conn. St.","Lehigh","H",14,20,NA,2
+2015,9,12,"Central Conn. St.","Stony Brook","V",9,38,NA,2
+2015,9,26,"Central Conn. St.","New Hampshire","V",14,57,NA,2
+2015,10,3,"Central Conn. St.","Duquesne","V",10,27,NA,2
+2015,10,10,"Central Conn. St.","Bryant","H",35,33,NA,2
+2015,10,17,"Central Conn. St.","Dartmouth","H",7,34,NA,2
+2015,10,24,"Central Conn. St.","Sacred Heart","V",26,10,NA,2
+2015,10,31,"Central Conn. St.","Robert Morris","H",34,0,NA,2
+2015,11,7,"Central Conn. St.","Saint Francis (PA)","H",13,22,NA,2
+2015,11,14,"Central Conn. St.","Wagner","V",7,28,NA,2
+2015,9,17,"Charleston So.","ETSU","H",47,7,NA,2
+2015,9,26,"Charleston So.","The Citadel","V",33,20,NA,2
+2015,10,10,"Charleston So.","Monmouth","H",37,7,NA,2
+2015,10,17,"Charleston So.","Presbyterian","V",10,7,NA,2
+2015,10,24,"Charleston So.","Gardner-Webb","V",34,0,NA,2
+2015,10,31,"Charleston So.","Coastal Caro.","H",33,25,NA,2
+2015,11,7,"Charleston So.","Kennesaw St.","V",28,14,NA,2
+2015,11,14,"Charleston So.","Liberty","H",31,24,NA,2
+2015,12,5,"Charleston So.","The Citadel","H",14,6,NA,2
+2015,12,11,"Charleston So.","Jacksonville St.","V",38,58,NA,2
+2015,9,5,"Chattanooga","Jacksonville St.","H",20,23,NA,2
+2015,9,19,"Chattanooga","Samford","V",31,21,NA,2
+2015,9,26,"Chattanooga","Presbyterian","V",21,0,NA,2
+2015,10,10,"Chattanooga","Furman","H",31,3,NA,2
+2015,10,17,"Chattanooga","VMI","V",33,27,NA,2
+2015,10,24,"Chattanooga","Wofford","V",20,17,NA,2
+2015,10,31,"Chattanooga","Western Caro.","H",41,13,NA,2
+2015,11,7,"Chattanooga","Mercer","V",14,17,NA,2
+2015,11,14,"Chattanooga","The Citadel","H",31,23,NA,2
+2015,11,28,"Chattanooga","Fordham","H",50,20,NA,2
+2015,12,5,"Chattanooga","Jacksonville St.","V",35,41,1,2
+2015,9,5,"Coastal Caro.","Furman","V",38,35,NA,2
+2015,9,12,"Coastal Caro.","South Carolina St.","V",41,14,NA,2
+2015,9,19,"Coastal Caro.","Western Ill.","H",34,27,NA,2
+2015,9,26,"Coastal Caro.","Bryant","H",31,17,NA,2
+2015,10,3,"Coastal Caro.","Alabama A&M","H",55,0,NA,2
+2015,10,10,"Coastal Caro.","Presbyterian","H",24,17,NA,2
+2015,10,24,"Coastal Caro.","Monmouth","V",23,20,NA,2
+2015,10,31,"Coastal Caro.","Charleston So.","V",25,33,NA,2
+2015,11,7,"Coastal Caro.","Gardner-Webb","H",46,0,NA,2
+2015,11,14,"Coastal Caro.","Kennesaw St.","H",45,13,NA,2
+2015,11,19,"Coastal Caro.","Liberty","V",21,24,NA,2
+2015,11,28,"Coastal Caro.","The Citadel","H",38,41,NA,2
+2015,9,12,"Colgate","New Hampshire","H",8,26,NA,2
+2015,9,19,"Colgate","Yale","H",28,29,NA,2
+2015,9,26,"Colgate","Holy Cross","V",31,14,NA,2
+2015,10,2,"Colgate","Cornell","V",28,21,NA,2
+2015,10,10,"Colgate","Princeton","V",20,44,NA,2
+2015,10,17,"Colgate","Georgetown","V",17,13,NA,2
+2015,10,31,"Colgate","Fordham","H",31,29,NA,2
+2015,11,7,"Colgate","Lafayette","V",28,19,NA,2
+2015,11,14,"Colgate","Lehigh","H",49,42,NA,2
+2015,11,21,"Colgate","Bucknell","H",14,10,NA,2
+2015,11,28,"Colgate","New Hampshire","V",27,20,NA,2
+2015,12,5,"Colgate","James Madison","V",44,38,NA,2
+2015,12,12,"Colgate","Sam Houston St.","V",21,48,NA,2
+2015,9,19,"Columbia","Fordham","V",24,44,NA,2
+2015,9,26,"Columbia","Georgetown","H",16,24,NA,2
+2015,10,2,"Columbia","Princeton","V",5,10,NA,2
+2015,10,10,"Columbia","Wagner","H",26,3,NA,2
+2015,10,17,"Columbia","Penn","H",7,42,NA,2
+2015,10,24,"Columbia","Dartmouth","V",9,13,NA,2
+2015,10,31,"Columbia","Yale","V",17,7,NA,2
+2015,11,7,"Columbia","Harvard","H",16,24,NA,2
+2015,11,14,"Columbia","Cornell","V",0,3,NA,2
+2015,11,20,"Columbia","Brown","H",23,28,NA,2
+2015,9,19,"Cornell","Bucknell","H",14,19,NA,2
+2015,9,26,"Cornell","Yale","V",26,33,NA,2
+2015,10,2,"Cornell","Colgate","H",21,28,NA,2
+2015,10,10,"Cornell","Harvard","H",3,40,NA,2
+2015,10,17,"Cornell","Sacred Heart","V",6,31,NA,2
+2015,10,24,"Cornell","Brown","H",24,44,NA,2
+2015,10,31,"Cornell","Princeton","V",21,47,NA,2
+2015,11,6,"Cornell","Dartmouth","V",3,21,NA,2
+2015,11,14,"Cornell","Columbia","H",3,0,NA,2
+2015,11,21,"Cornell","Penn","V",21,34,NA,2
+2015,9,19,"Dartmouth","Georgetown","V",31,10,NA,2
+2015,9,26,"Dartmouth","Sacred Heart","H",49,7,NA,2
+2015,10,3,"Dartmouth","Penn","V",41,20,NA,2
+2015,10,10,"Dartmouth","Yale","H",35,3,NA,2
+2015,10,17,"Dartmouth","Central Conn. St.","V",34,7,NA,2
+2015,10,24,"Dartmouth","Columbia","H",13,9,NA,2
+2015,10,30,"Dartmouth","Harvard","V",13,14,NA,2
+2015,11,6,"Dartmouth","Cornell","H",21,3,NA,2
+2015,11,14,"Dartmouth","Brown","V",34,18,NA,2
+2015,11,21,"Dartmouth","Princeton","H",17,10,NA,2
+2015,9,5,"Davidson","The Citadel","V",0,69,NA,2
+2015,9,26,"Davidson","Morehead St.","V",0,34,NA,2
+2015,10,3,"Davidson","Valparaiso","H",35,42,NA,2
+2015,10,17,"Davidson","Butler","V",7,38,NA,2
+2015,10,24,"Davidson","Marist","H",10,31,NA,2
+2015,10,31,"Davidson","Campbell","H",9,39,NA,2
+2015,11,7,"Davidson","Jacksonville","V",12,42,NA,2
+2015,11,14,"Davidson","San Diego","H",10,35,NA,2
+2015,11,21,"Davidson","Stetson","V",20,17,NA,2
+2015,9,5,"Dayton","Robert Morris","V",27,24,NA,2
+2015,9,19,"Dayton","Duquesne","H",24,13,NA,2
+2015,9,26,"Dayton","Kennesaw St.","H",31,27,NA,2
+2015,10,3,"Dayton","Stetson","V",27,14,NA,2
+2015,10,10,"Dayton","San Diego","H",13,12,NA,2
+2015,10,17,"Dayton","Valparaiso","V",44,14,NA,2
+2015,10,24,"Dayton","Butler","H",27,24,NA,2
+2015,10,31,"Dayton","Jacksonville","H",31,14,NA,2
+2015,11,7,"Dayton","Morehead St.","V",20,15,NA,2
+2015,11,14,"Dayton","Marist","H",28,21,NA,2
+2015,11,21,"Dayton","Drake","V",17,27,NA,2
+2015,11,28,"Dayton","Western Ill.","H",7,24,NA,2
+2015,9,4,"Delaware","Jacksonville","H",14,20,NA,2
+2015,9,12,"Delaware","Lafayette","H",19,9,NA,2
+2015,9,19,"Delaware","Villanova","V",21,28,NA,2
+2015,10,3,"Delaware","William & Mary","H",24,23,NA,2
+2015,10,10,"Delaware","Rhode Island","V",0,20,NA,2
+2015,10,24,"Delaware","New Hampshire","H",31,14,NA,2
+2015,10,31,"Delaware","Towson","V",0,19,NA,2
+2015,11,7,"Delaware","Albany (NY)","H",6,17,NA,2
+2015,11,14,"Delaware","James Madison","H",21,24,NA,2
+2015,11,21,"Delaware","Elon","V",14,10,NA,2
+2015,9,5,"Delaware St.","Liberty","V",13,32,NA,2
+2015,10,3,"Delaware St.","Morgan St.","H",6,26,NA,2
+2015,10,10,"Delaware St.","Hampton","V",7,21,NA,2
+2015,10,17,"Delaware St.","Florida A&M","V",13,41,NA,2
+2015,10,24,"Delaware St.","South Carolina St.","H",7,34,NA,2
+2015,10,31,"Delaware St.","Bethune-Cookman","H",21,49,NA,2
+2015,11,7,"Delaware St.","N.C. Central","V",10,43,NA,2
+2015,11,14,"Delaware St.","N.C. A&T","V",6,27,NA,2
+2015,11,21,"Delaware St.","Howard","H",32,31,NA,2
+2015,9,12,"Drake","North Dakota","V",18,21,NA,2
+2015,9,19,"Drake","South Dakota","V",0,52,NA,2
+2015,9,26,"Drake","Stetson","H",41,3,NA,2
+2015,10,3,"Drake","Campbell","V",14,24,NA,2
+2015,10,10,"Drake","Valparaiso","H",34,7,NA,2
+2015,10,17,"Drake","San Diego","V",0,27,NA,2
+2015,10,24,"Drake","Jacksonville","H",28,24,NA,2
+2015,10,31,"Drake","Morehead St.","V",35,38,1,2
+2015,11,14,"Drake","Butler","V",13,20,NA,2
+2015,11,21,"Drake","Dayton","H",27,17,NA,2
+2015,9,12,"Duquesne","Bucknell","V",26,7,NA,2
+2015,9,19,"Duquesne","Dayton","V",13,24,NA,2
+2015,9,26,"Duquesne","Albany (NY)","V",14,17,NA,2
+2015,10,3,"Duquesne","Central Conn. St.","H",27,10,NA,2
+2015,10,17,"Duquesne","Bryant","V",17,38,NA,2
+2015,10,24,"Duquesne","Robert Morris","V",16,7,NA,2
+2015,10,31,"Duquesne","Wagner","H",35,17,NA,2
+2015,11,7,"Duquesne","Sacred Heart","V",41,14,NA,2
+2015,11,21,"Duquesne","Saint Francis (PA)","H",30,20,NA,2
+2015,11,28,"Duquesne","William & Mary","V",49,52,NA,2
+2015,9,3,"ETSU","Kennesaw St.","H",16,56,NA,2
+2015,9,17,"ETSU","Charleston So.","V",7,47,NA,2
+2015,10,3,"ETSU","Saint Francis (PA)","H",9,58,NA,2
+2015,10,17,"ETSU","Mercer","V",0,52,NA,2
+2015,10,24,"ETSU","Montana St.","V",7,63,NA,2
+2015,11,7,"ETSU","Robert Morris","V",9,21,NA,2
+2015,11,14,"ETSU","Gardner-Webb","V",3,28,NA,2
+2015,9,3,"Eastern Ill.","Western Ill.","V",5,33,NA,2
+2015,9,19,"Eastern Ill.","Illinois St.","H",31,34,1,2
+2015,10,3,"Eastern Ill.","Austin Peay","V",40,16,NA,2
+2015,10,10,"Eastern Ill.","Southeast Mo. St.","H",33,28,NA,2
+2015,10,17,"Eastern Ill.","Tennessee St.","V",25,22,1,2
+2015,10,24,"Eastern Ill.","Tennessee Tech","H",51,20,NA,2
+2015,10,31,"Eastern Ill.","Murray St.","V",34,20,NA,2
+2015,11,7,"Eastern Ill.","Jacksonville St.","H",3,24,NA,2
+2015,11,14,"Eastern Ill.","UT Martin","V",23,21,NA,2
+2015,11,21,"Eastern Ill.","Eastern Ky.","H",21,7,NA,2
+2015,11,28,"Eastern Ill.","UNI","V",17,53,NA,2
+2015,9,3,"Eastern Ky.","Valparaiso","H",52,10,NA,2
+2015,9,26,"Eastern Ky.","Austin Peay","H",51,13,NA,2
+2015,10,8,"Eastern Ky.","Tennessee Tech","N",48,17,NA,2
+2015,10,17,"Eastern Ky.","Southeast Mo. St.","V",27,10,NA,2
+2015,10,24,"Eastern Ky.","Tennessee St.","H",45,21,NA,2
+2015,10,31,"Eastern Ky.","Jacksonville St.","V",0,34,NA,2
+2015,11,7,"Eastern Ky.","UT Martin","H",35,42,NA,2
+2015,11,14,"Eastern Ky.","Murray St.","V",41,34,2,2
+2015,11,21,"Eastern Ky.","Eastern Ill.","V",7,21,NA,2
+2015,9,12,"Eastern Wash.","UNI","V",35,38,NA,2
+2015,9,19,"Eastern Wash.","Montana St.","H",55,50,NA,2
+2015,9,26,"Eastern Wash.","Sacramento St.","V",28,20,NA,2
+2015,10,10,"Eastern Wash.","Cal Poly","H",42,41,1,2
+2015,10,17,"Eastern Wash.","Idaho St.","V",45,28,NA,2
+2015,10,24,"Eastern Wash.","Northern Colo.","V",43,41,NA,2
+2015,10,31,"Eastern Wash.","Weber St.","H",14,13,NA,2
+2015,11,7,"Eastern Wash.","Northern Ariz.","H",30,52,NA,2
+2015,11,14,"Eastern Wash.","Montana","V",16,57,NA,2
+2015,11,21,"Eastern Wash.","Portland St.","H",31,34,NA,2
+2015,9,12,"Elon","Gardner-Webb","V",21,13,3,2
+2015,9,19,"Elon","N.C. A&T","H",7,14,NA,2
+2015,9,26,"Elon","Towson","H",17,13,NA,2
+2015,10,3,"Elon","New Hampshire","V",14,37,NA,2
+2015,10,10,"Elon","Richmond","V",14,27,NA,2
+2015,10,17,"Elon","James Madison","H",0,51,NA,2
+2015,10,31,"Elon","Stony Brook","V",21,7,NA,2
+2015,11,7,"Elon","William & Mary","H",13,34,NA,2
+2015,11,14,"Elon","Maine","V",27,22,NA,2
+2015,11,21,"Elon","Delaware","H",10,14,NA,2
+2015,9,12,"Florida A&M","Samford","V",21,58,NA,2
+2015,9,17,"Florida A&M","South Carolina St.","V",0,36,NA,2
+2015,9,26,"Florida A&M","Tennessee St.","H",14,30,NA,2
+2015,10,3,"Florida A&M","Savannah St.","V",27,37,NA,2
+2015,10,10,"Florida A&M","N.C. Central","H",24,27,NA,2
+2015,10,17,"Florida A&M","Delaware St.","H",41,13,NA,2
+2015,10,31,"Florida A&M","N.C. A&T","H",10,28,NA,2
+2015,11,7,"Florida A&M","Hampton","V",0,33,NA,2
+2015,11,14,"Florida A&M","Morgan St.","V",7,21,NA,2
+2015,11,21,"Florida A&M","Bethune-Cookman","N",14,35,NA,2
+2015,9,12,"Fordham","Villanova","H",7,14,NA,2
+2015,9,19,"Fordham","Columbia","H",44,24,NA,2
+2015,9,26,"Fordham","Monmouth","H",54,31,NA,2
+2015,10,3,"Fordham","Lafayette","V",35,7,NA,2
+2015,10,10,"Fordham","Penn","V",48,45,NA,2
+2015,10,17,"Fordham","Holy Cross","H",47,41,1,2
+2015,10,24,"Fordham","Lehigh","H",59,42,NA,2
+2015,10,31,"Fordham","Colgate","V",29,31,NA,2
+2015,11,7,"Fordham","Bucknell","H",24,16,NA,2
+2015,11,14,"Fordham","Georgetown","V",38,31,NA,2
+2015,11,28,"Fordham","Chattanooga","V",20,50,NA,2
+2015,9,5,"Furman","Coastal Caro.","H",35,38,NA,2
+2015,9,26,"Furman","VMI","H",24,21,NA,2
+2015,10,3,"Furman","South Carolina St.","H",17,3,NA,2
+2015,10,10,"Furman","Chattanooga","V",3,31,NA,2
+2015,10,24,"Furman","The Citadel","H",17,38,NA,2
+2015,10,31,"Furman","Samford","V",20,17,NA,2
+2015,11,7,"Furman","Western Caro.","V",10,48,NA,2
+2015,11,14,"Furman","Mercer","H",20,27,1,2
+2015,11,21,"Furman","Wofford","V",28,38,NA,2
+2015,9,12,"Gardner-Webb","Elon","H",13,21,3,2
+2015,9,26,"Gardner-Webb","Wofford","V",0,16,NA,2
+2015,10,10,"Gardner-Webb","Liberty","H",34,20,NA,2
+2015,10,17,"Gardner-Webb","Kennesaw St.","V",7,12,NA,2
+2015,10,24,"Gardner-Webb","Charleston So.","H",0,34,NA,2
+2015,10,31,"Gardner-Webb","Presbyterian","V",14,10,NA,2
+2015,11,7,"Gardner-Webb","Coastal Caro.","V",0,46,NA,2
+2015,11,14,"Gardner-Webb","ETSU","H",28,3,NA,2
+2015,11,21,"Gardner-Webb","Monmouth","H",9,23,NA,2
+2015,9,5,"Georgetown","Saint Francis (PA)","V",20,48,NA,2
+2015,9,12,"Georgetown","Marist","H",34,7,NA,2
+2015,9,19,"Georgetown","Dartmouth","H",10,31,NA,2
+2015,9,26,"Georgetown","Columbia","V",24,16,NA,2
+2015,10,2,"Georgetown","Harvard","V",0,45,NA,2
+2015,10,10,"Georgetown","Lafayette","H",38,7,NA,2
+2015,10,17,"Georgetown","Colgate","H",13,17,NA,2
+2015,10,24,"Georgetown","Bucknell","V",17,9,NA,2
+2015,10,31,"Georgetown","Lehigh","V",28,33,NA,2
+2015,11,14,"Georgetown","Fordham","H",31,38,NA,2
+2015,11,21,"Georgetown","Holy Cross","V",7,45,NA,2
+2015,9,12,"Grambling","Bethune-Cookman","H",53,56,NA,2
+2015,9,19,"Grambling","Alabama St.","V",34,10,NA,2
+2015,9,26,"Grambling","Prairie View","V",70,54,NA,2
+2015,10,3,"Grambling","Jackson St.","V",59,27,NA,2
+2015,10,10,"Grambling","Alabama A&M","H",37,14,NA,2
+2015,10,17,"Grambling","Alcorn","V",35,34,NA,2
+2015,10,24,"Grambling","Mississippi Val.","H",49,14,NA,2
+2015,11,7,"Grambling","Texas Southern","N",41,15,NA,2
+2015,11,14,"Grambling","Ark.-Pine Bluff","V",49,31,NA,2
+2015,11,28,"Grambling","Southern U.","N",34,23,NA,2
+2015,12,5,"Grambling","Alcorn","N",21,49,NA,2
+2015,9,12,"Hampton","Richmond","H",28,31,NA,2
+2015,9,18,"Hampton","Howard","N",37,19,NA,2
+2015,9,26,"Hampton","Norfolk St.","V",14,24,NA,2
+2015,10,3,"Hampton","N.C. A&T","H",31,45,NA,2
+2015,10,10,"Hampton","Delaware St.","H",21,7,NA,2
+2015,10,17,"Hampton","Morgan St.","V",20,10,NA,2
+2015,10,24,"Hampton","William & Mary","V",7,40,NA,2
+2015,10,31,"Hampton","South Carolina St.","V",20,34,NA,2
+2015,11,7,"Hampton","Florida A&M","H",33,0,NA,2
+2015,11,14,"Hampton","Savannah St.","V",42,3,NA,2
+2015,9,19,"Harvard","Rhode Island","V",41,10,NA,2
+2015,9,26,"Harvard","Brown","H",53,27,NA,2
+2015,10,2,"Harvard","Georgetown","H",45,0,NA,2
+2015,10,10,"Harvard","Cornell","V",40,3,NA,2
+2015,10,17,"Harvard","Lafayette","V",42,0,NA,2
+2015,10,24,"Harvard","Princeton","H",42,7,NA,2
+2015,10,30,"Harvard","Dartmouth","H",14,13,NA,2
+2015,11,7,"Harvard","Columbia","V",24,16,NA,2
+2015,11,14,"Harvard","Penn","H",25,35,NA,2
+2015,11,21,"Harvard","Yale","V",38,19,NA,2
+2015,9,5,"Holy Cross","Monmouth","V",27,19,NA,2
+2015,9,19,"Holy Cross","Towson","V",26,29,NA,2
+2015,9,26,"Holy Cross","Colgate","H",14,31,NA,2
+2015,10,3,"Holy Cross","Albany (NY)","H",37,0,NA,2
+2015,10,10,"Holy Cross","Brown","H",24,25,NA,2
+2015,10,17,"Holy Cross","Fordham","V",41,47,1,2
+2015,10,24,"Holy Cross","Lafayette","H",42,0,NA,2
+2015,10,31,"Holy Cross","Bryant","H",34,33,NA,2
+2015,11,7,"Holy Cross","Lehigh","V",38,51,NA,2
+2015,11,14,"Holy Cross","Bucknell","V",23,7,NA,2
+2015,11,21,"Holy Cross","Georgetown","H",45,7,NA,2
+2015,9,12,"Houston Baptist","Northern Colo.","H",10,34,NA,2
+2015,9,19,"Houston Baptist","Abilene Christian","V",21,49,NA,2
+2015,9,26,"Houston Baptist","Sam Houston St.","V",14,63,NA,2
+2015,10,10,"Houston Baptist","Central Ark.","H",7,43,NA,2
+2015,10,17,"Houston Baptist","Nicholls St.","V",17,38,NA,2
+2015,10,24,"Houston Baptist","Southeastern La.","H",7,22,NA,2
+2015,10,31,"Houston Baptist","Lamar University","H",7,55,NA,2
+2015,11,14,"Houston Baptist","SFA","V",20,55,NA,2
+2015,11,21,"Houston Baptist","Incarnate Word","H",3,30,NA,2
+2015,9,18,"Howard","Hampton","N",19,37,NA,2
+2015,9,26,"Howard","Morgan St.","N",13,21,NA,2
+2015,10,3,"Howard","Norfolk St.","H",12,15,NA,2
+2015,10,17,"Howard","South Carolina St.","V",10,49,NA,2
+2015,10,24,"Howard","N.C. A&T","V",14,65,NA,2
+2015,10,31,"Howard","Savannah St.","H",55,9,NA,2
+2015,11,7,"Howard","Stony Brook","V",9,14,NA,2
+2015,11,14,"Howard","N.C. Central","H",6,41,NA,2
+2015,11,21,"Howard","Delaware St.","V",31,32,NA,2
+2015,9,12,"Idaho St.","Portland St.","H",14,34,NA,2
+2015,10,3,"Idaho St.","Cal Poly","V",26,58,NA,2
+2015,10,10,"Idaho St.","North Dakota","V",37,31,NA,2
+2015,10,17,"Idaho St.","Eastern Wash.","H",28,45,NA,2
+2015,10,24,"Idaho St.","Sacramento St.","V",13,38,NA,2
+2015,11,7,"Idaho St.","Montana","H",27,33,1,2
+2015,11,14,"Idaho St.","Montana St.","H",20,44,NA,2
+2015,11,21,"Idaho St.","Weber St.","V",14,35,NA,2
+2015,9,12,"Illinois St.","Morgan St.","H",67,14,NA,2
+2015,9,19,"Illinois St.","Eastern Ill.","V",34,31,1,2
+2015,10,3,"Illinois St.","UNI","H",21,13,NA,2
+2015,10,10,"Illinois St.","Youngstown St.","V",31,29,NA,2
+2015,10,17,"Illinois St.","Missouri St.","V",38,2,NA,2
+2015,10,24,"Illinois St.","Western Ill.","H",48,28,NA,2
+2015,10,31,"Illinois St.","Indiana St.","H",27,24,NA,2
+2015,11,7,"Illinois St.","South Dakota St.","V",20,25,NA,2
+2015,11,14,"Illinois St.","Southern Ill.","V",42,21,NA,2
+2015,11,21,"Illinois St.","South Dakota","H",46,0,NA,2
+2015,12,5,"Illinois St.","Western Ill.","H",36,19,NA,2
+2015,12,11,"Illinois St.","Richmond","H",27,39,NA,2
+2015,9,12,"Incarnate Word","McNeese","V",6,43,NA,2
+2015,9,19,"Incarnate Word","Nicholls St.","H",20,10,NA,2
+2015,10,3,"Incarnate Word","Northwestern St.","H",45,31,NA,2
+2015,10,10,"Incarnate Word","Sam Houston St.","V",7,59,NA,2
+2015,10,25,"Incarnate Word","Abilene Christian","H",25,20,NA,2
+2015,10,31,"Incarnate Word","SFA","V",21,55,NA,2
+2015,11,7,"Incarnate Word","Southeastern La.","V",16,2,NA,2
+2015,11,14,"Incarnate Word","Lamar University","H",21,28,NA,2
+2015,11,21,"Incarnate Word","Houston Baptist","V",30,3,NA,2
+2015,9,5,"Indiana St.","Butler","H",52,17,NA,2
+2015,9,19,"Indiana St.","Southeast Mo. St.","H",29,28,NA,2
+2015,10,3,"Indiana St.","Missouri St.","V",56,28,NA,2
+2015,10,10,"Indiana St.","South Dakota St.","V",7,24,NA,2
+2015,10,17,"Indiana St.","Southern Ill.","H",39,36,NA,2
+2015,10,24,"Indiana St.","North Dakota St.","H",14,28,NA,2
+2015,10,31,"Indiana St.","Illinois St.","V",24,27,NA,2
+2015,11,7,"Indiana St.","UNI","V",13,59,NA,2
+2015,11,14,"Indiana St.","Western Ill.","H",30,37,1,2
+2015,11,21,"Indiana St.","Youngstown St.","H",27,24,NA,2
+2015,9,12,"Jackson St.","Tennessee St.","N",25,35,NA,2
+2015,9,19,"Jackson St.","Southern U.","V",31,50,NA,2
+2015,9,26,"Jackson St.","Texas Southern","H",34,30,NA,2
+2015,10,3,"Jackson St.","Grambling","H",27,59,NA,2
+2015,10,17,"Jackson St.","Alabama A&M","V",22,28,NA,2
+2015,10,24,"Jackson St.","Ark.-Pine Bluff","H",37,3,NA,2
+2015,10,31,"Jackson St.","Mississippi Val.","V",26,16,NA,2
+2015,11,7,"Jackson St.","Alabama St.","H",12,17,NA,2
+2015,11,21,"Jackson St.","Prairie View","V",14,56,NA,2
+2015,11,28,"Jackson St.","Alcorn","H",10,14,NA,2
+2015,9,4,"Jacksonville","Delaware","V",20,14,NA,2
+2015,9,26,"Jacksonville","Marist","V",20,16,NA,2
+2015,10,3,"Jacksonville","Morehead St.","H",30,26,NA,2
+2015,10,10,"Jacksonville","Stetson","H",41,14,NA,2
+2015,10,24,"Jacksonville","Drake","V",24,28,NA,2
+2015,10,31,"Jacksonville","Dayton","V",14,31,NA,2
+2015,11,7,"Jacksonville","Davidson","H",42,12,NA,2
+2015,11,14,"Jacksonville","Campbell","V",20,14,NA,2
+2015,11,21,"Jacksonville","Valparaiso","H",58,13,NA,2
+2015,9,5,"Jacksonville St.","Chattanooga","V",23,20,NA,2
+2015,9,19,"Jacksonville St.","Tennessee St.","H",48,13,NA,2
+2015,9,26,"Jacksonville St.","UT Martin","V",48,41,NA,2
+2015,10,3,"Jacksonville St.","Mississippi Val.","H",49,7,NA,2
+2015,10,17,"Jacksonville St.","Tennessee Tech","V",42,13,NA,2
+2015,10,24,"Jacksonville St.","Austin Peay","V",27,7,NA,2
+2015,10,31,"Jacksonville St.","Eastern Ky.","H",34,0,NA,2
+2015,11,7,"Jacksonville St.","Eastern Ill.","V",24,3,NA,2
+2015,11,14,"Jacksonville St.","Southeast Mo. St.","H",56,28,NA,2
+2015,11,21,"Jacksonville St.","Murray St.","H",42,20,NA,2
+2015,12,5,"Jacksonville St.","Chattanooga","H",41,35,1,2
+2015,12,11,"Jacksonville St.","Charleston So.","H",58,38,NA,2
+2015,12,19,"Jacksonville St.","Sam Houston St.","H",62,10,NA,2
+2016,1,9,"Jacksonville St.","North Dakota St.","N",10,37,NA,2
+2015,9,5,"James Madison","Morehead St.","H",56,7,NA,2
+2015,9,12,"James Madison","Lehigh","H",55,17,NA,2
+2015,9,19,"James Madison","Albany (NY)","H",42,28,NA,2
+2015,10,3,"James Madison","Stony Brook","H",38,20,NA,2
+2015,10,10,"James Madison","Towson","V",51,30,NA,2
+2015,10,17,"James Madison","Elon","V",51,0,NA,2
+2015,10,24,"James Madison","Richmond","H",49,59,NA,2
+2015,10,31,"James Madison","William & Mary","V",41,44,NA,2
+2015,11,14,"James Madison","Delaware","V",24,21,NA,2
+2015,11,21,"James Madison","Villanova","H",38,29,NA,2
+2015,12,5,"James Madison","Colgate","H",38,44,NA,2
+2015,9,3,"Kennesaw St.","ETSU","V",56,16,NA,2
+2015,9,26,"Kennesaw St.","Dayton","V",27,31,NA,2
+2015,10,17,"Kennesaw St.","Gardner-Webb","H",12,7,NA,2
+2015,10,24,"Kennesaw St.","Liberty","V",35,45,NA,2
+2015,10,31,"Kennesaw St.","Monmouth","H",23,13,NA,2
+2015,11,7,"Kennesaw St.","Charleston So.","H",14,28,NA,2
+2015,11,14,"Kennesaw St.","Coastal Caro.","V",13,45,NA,2
+2015,11,21,"Kennesaw St.","Presbyterian","V",6,14,NA,2
+2015,9,5,"Lafayette","William & Mary","H",7,34,NA,2
+2015,9,12,"Lafayette","Delaware","V",9,19,NA,2
+2015,9,19,"Lafayette","Princeton","H",7,40,NA,2
+2015,9,26,"Lafayette","Wagner","V",35,24,NA,2
+2015,10,3,"Lafayette","Fordham","H",7,35,NA,2
+2015,10,10,"Lafayette","Georgetown","V",7,38,NA,2
+2015,10,17,"Lafayette","Harvard","H",0,42,NA,2
+2015,10,24,"Lafayette","Holy Cross","V",0,42,NA,2
+2015,10,31,"Lafayette","Bucknell","H",24,35,NA,2
+2015,11,7,"Lafayette","Colgate","H",19,28,NA,2
+2015,11,21,"Lafayette","Lehigh","V",35,49,NA,2
+2015,9,19,"Lamar University","Sam Houston St.","V",49,46,NA,2
+2015,10,1,"Lamar University","Southeastern La.","V",27,30,NA,2
+2015,10,10,"Lamar University","Abilene Christian","H",44,28,NA,2
+2015,10,17,"Lamar University","Northwestern St.","V",35,48,NA,2
+2015,10,24,"Lamar University","Central Ark.","H",17,35,NA,2
+2015,10,31,"Lamar University","Houston Baptist","V",55,7,NA,2
+2015,11,7,"Lamar University","Nicholls St.","H",28,30,NA,2
+2015,11,14,"Lamar University","Incarnate Word","V",28,21,NA,2
+2015,11,21,"Lamar University","McNeese","H",14,20,NA,2
+2015,9,4,"Lehigh","Central Conn. St.","V",20,14,NA,2
+2015,9,12,"Lehigh","James Madison","V",17,55,NA,2
+2015,9,19,"Lehigh","Penn","H",42,21,NA,2
+2015,9,26,"Lehigh","Princeton","V",26,52,NA,2
+2015,10,3,"Lehigh","Yale","H",12,27,NA,2
+2015,10,10,"Lehigh","Bucknell","V",21,10,NA,2
+2015,10,24,"Lehigh","Fordham","V",42,59,NA,2
+2015,10,31,"Lehigh","Georgetown","H",33,28,NA,2
+2015,11,7,"Lehigh","Holy Cross","H",51,38,NA,2
+2015,11,14,"Lehigh","Colgate","V",42,49,NA,2
+2015,11,21,"Lehigh","Lafayette","H",49,35,NA,2
+2015,9,5,"Liberty","Delaware St.","H",32,13,NA,2
+2015,9,19,"Liberty","Montana","H",31,21,NA,2
+2015,9,26,"Liberty","Southern Ill.","V",13,34,NA,2
+2015,10,10,"Liberty","Gardner-Webb","V",20,34,NA,2
+2015,10,17,"Liberty","Monmouth","V",17,20,1,2
+2015,10,24,"Liberty","Kennesaw St.","H",45,35,NA,2
+2015,11,7,"Liberty","Presbyterian","H",21,13,NA,2
+2015,11,14,"Liberty","Charleston So.","V",24,31,NA,2
+2015,11,19,"Liberty","Coastal Caro.","H",24,21,NA,2
+2015,9,26,"Maine","Rhode Island","H",27,17,NA,2
+2015,10,3,"Maine","Richmond","V",17,48,NA,2
+2015,10,10,"Maine","Albany (NY)","V",39,7,NA,2
+2015,10,17,"Maine","Yale","H",10,21,NA,2
+2015,10,24,"Maine","Stony Brook","H",23,10,NA,2
+2015,10,31,"Maine","Villanova","V",3,13,NA,2
+2015,11,7,"Maine","Towson","H",7,10,NA,2
+2015,11,14,"Maine","Elon","H",22,27,NA,2
+2015,11,21,"Maine","New Hampshire","V",6,22,NA,2
+2015,9,5,"Marist","Bucknell","V",0,17,NA,2
+2015,9,12,"Marist","Georgetown","V",7,34,NA,2
+2015,9,19,"Marist","Sacred Heart","H",34,27,NA,2
+2015,9,26,"Marist","Jacksonville","H",16,20,NA,2
+2015,10,3,"Marist","San Diego","V",27,30,NA,2
+2015,10,10,"Marist","Campbell","V",13,10,NA,2
+2015,10,24,"Marist","Davidson","V",31,10,NA,2
+2015,10,31,"Marist","Butler","H",35,14,NA,2
+2015,11,7,"Marist","Stetson","H",49,14,NA,2
+2015,11,14,"Marist","Dayton","V",21,28,NA,2
+2015,11,21,"Marist","Morehead St.","H",17,20,NA,2
+2015,9,12,"McNeese","Incarnate Word","H",43,6,NA,2
+2015,9,19,"McNeese","SFA","V",28,14,NA,2
+2015,10,3,"McNeese","Nicholls St.","V",37,7,NA,2
+2015,10,10,"McNeese","Southeastern La.","H",21,7,NA,2
+2015,10,17,"McNeese","Central Ark.","V",28,13,NA,2
+2015,10,24,"McNeese","Northwestern St.","H",47,27,NA,2
+2015,10,31,"McNeese","Abilene Christian","V",15,13,NA,2
+2015,11,7,"McNeese","Sam Houston St.","H",27,10,NA,2
+2015,11,21,"McNeese","Lamar University","V",20,14,NA,2
+2015,12,5,"McNeese","Sam Houston St.","H",29,34,NA,2
+2015,9,5,"Mercer","Austin Peay","V",28,7,NA,2
+2015,9,12,"Mercer","Stetson","H",57,14,NA,2
+2015,9,19,"Mercer","Tennessee Tech","V",22,29,NA,2
+2015,10,3,"Mercer","Wofford","H",33,34,1,2
+2015,10,10,"Mercer","Western Caro.","V",21,24,NA,2
+2015,10,17,"Mercer","ETSU","H",52,0,NA,2
+2015,10,24,"Mercer","VMI","H",21,28,NA,2
+2015,10,31,"Mercer","The Citadel","V",19,21,NA,2
+2015,11,7,"Mercer","Chattanooga","H",17,14,NA,2
+2015,11,14,"Mercer","Furman","V",27,20,1,2
+2015,11,21,"Mercer","Samford","H",21,47,NA,2
+2015,9,10,"Mississippi Val.","Southern U.","H",13,50,NA,2
+2015,9,19,"Mississippi Val.","Alcorn","V",14,55,NA,2
+2015,9,26,"Mississippi Val.","Alabama St.","H",15,45,NA,2
+2015,10,3,"Mississippi Val.","Jacksonville St.","V",7,49,NA,2
+2015,10,10,"Mississippi Val.","Prairie View","V",6,45,NA,2
+2015,10,17,"Mississippi Val.","Texas Southern","H",21,49,NA,2
+2015,10,24,"Mississippi Val.","Grambling","V",14,49,NA,2
+2015,10,31,"Mississippi Val.","Jackson St.","H",16,26,NA,2
+2015,11,7,"Mississippi Val.","Alabama A&M","V",27,24,1,2
+2015,11,21,"Mississippi Val.","Ark.-Pine Bluff","H",19,25,1,2
+2015,10,3,"Missouri St.","Indiana St.","H",28,56,NA,2
+2015,10,10,"Missouri St.","Southern Ill.","V",26,73,NA,2
+2015,10,17,"Missouri St.","Illinois St.","H",2,38,NA,2
+2015,10,24,"Missouri St.","South Dakota","V",10,40,NA,2
+2015,10,31,"Missouri St.","South Dakota St.","H",0,39,NA,2
+2015,11,7,"Missouri St.","Youngstown St.","V",7,47,NA,2
+2015,11,14,"Missouri St.","UNI","H",0,41,NA,2
+2015,11,21,"Missouri St.","North Dakota St.","V",0,55,NA,2
+2015,9,5,"Monmouth","Holy Cross","H",19,27,NA,2
+2015,9,19,"Monmouth","Wagner","V",31,16,NA,2
+2015,9,26,"Monmouth","Fordham","V",31,54,NA,2
+2015,10,3,"Monmouth","Bryant","H",31,24,NA,2
+2015,10,10,"Monmouth","Charleston So.","V",7,37,NA,2
+2015,10,17,"Monmouth","Liberty","H",20,17,1,2
+2015,10,24,"Monmouth","Coastal Caro.","H",20,23,NA,2
+2015,10,31,"Monmouth","Kennesaw St.","V",13,23,NA,2
+2015,11,14,"Monmouth","Presbyterian","H",21,16,NA,2
+2015,11,21,"Monmouth","Gardner-Webb","V",23,9,NA,2
+2015,8,29,"Montana","North Dakota St.","H",38,35,NA,2
+2015,9,5,"Montana","Cal Poly","H",19,20,NA,2
+2015,9,19,"Montana","Liberty","V",21,31,NA,2
+2015,9,26,"Montana","Northern Ariz.","H",23,14,NA,2
+2015,10,3,"Montana","UC Davis","V",27,13,NA,2
+2015,10,10,"Montana","Weber St.","H",21,24,1,2
+2015,10,24,"Montana","North Dakota","H",42,16,NA,2
+2015,10,31,"Montana","Portland St.","V",16,35,NA,2
+2015,11,7,"Montana","Idaho St.","V",33,27,1,2
+2015,11,14,"Montana","Eastern Wash.","H",57,16,NA,2
+2015,11,21,"Montana","Montana St.","V",54,35,NA,2
+2015,11,28,"Montana","South Dakota St.","H",24,17,NA,2
+2015,12,5,"Montana","North Dakota St.","V",6,37,NA,2
+2015,9,19,"Montana St.","Eastern Wash.","V",50,55,NA,2
+2015,9,26,"Montana St.","Cal Poly","H",45,28,NA,2
+2015,10,3,"Montana St.","Northern Ariz.","V",41,49,NA,2
+2015,10,10,"Montana St.","Sacramento St.","H",35,13,NA,2
+2015,10,17,"Montana St.","Portland St.","V",42,59,NA,2
+2015,10,24,"Montana St.","ETSU","H",63,7,NA,2
+2015,10,31,"Montana St.","North Dakota","V",38,44,NA,2
+2015,11,7,"Montana St.","Southern Utah","H",23,34,NA,2
+2015,11,14,"Montana St.","Idaho St.","V",44,20,NA,2
+2015,11,21,"Montana St.","Montana","H",35,54,NA,2
+2015,9,5,"Morehead St.","James Madison","V",7,56,NA,2
+2015,9,12,"Morehead St.","VMI","V",40,43,NA,2
+2015,9,26,"Morehead St.","Davidson","H",34,0,NA,2
+2015,10,3,"Morehead St.","Jacksonville","V",26,30,NA,2
+2015,10,10,"Morehead St.","Butler","H",34,21,NA,2
+2015,10,24,"Morehead St.","Campbell","V",31,27,NA,2
+2015,10,31,"Morehead St.","Drake","H",38,35,1,2
+2015,11,7,"Morehead St.","Dayton","H",15,20,NA,2
+2015,11,14,"Morehead St.","Valparaiso","V",36,29,NA,2
+2015,11,21,"Morehead St.","Marist","V",20,17,NA,2
+2015,9,12,"Morgan St.","Illinois St.","V",14,67,NA,2
+2015,9,26,"Morgan St.","Howard","N",21,13,NA,2
+2015,10,3,"Morgan St.","Delaware St.","V",26,6,NA,2
+2015,10,10,"Morgan St.","Savannah St.","H",42,3,NA,2
+2015,10,17,"Morgan St.","Hampton","H",10,20,NA,2
+2015,10,24,"Morgan St.","N.C. Central","V",17,20,NA,2
+2015,11,7,"Morgan St.","Bethune-Cookman","V",14,38,NA,2
+2015,11,14,"Morgan St.","Florida A&M","H",21,7,NA,2
+2015,11,21,"Morgan St.","Norfolk St.","H",10,17,NA,2
+2015,9,26,"Murray St.","Tennessee Tech","H",29,31,NA,2
+2015,10,3,"Murray St.","Southeast Mo. St.","V",10,27,NA,2
+2015,10,10,"Murray St.","Austin Peay","H",34,18,NA,2
+2015,10,24,"Murray St.","UT Martin","V",45,52,NA,2
+2015,10,31,"Murray St.","Eastern Ill.","H",20,34,NA,2
+2015,11,7,"Murray St.","Tennessee St.","V",46,43,1,2
+2015,11,14,"Murray St.","Eastern Ky.","H",34,41,2,2
+2015,11,21,"Murray St.","Jacksonville St.","V",20,42,NA,2
+2015,9,19,"N.C. A&T","Elon","V",14,7,NA,2
+2015,10,3,"N.C. A&T","Hampton","V",45,31,NA,2
+2015,10,10,"N.C. A&T","Norfolk St.","V",27,3,NA,2
+2015,10,17,"N.C. A&T","Bethune-Cookman","H",24,14,NA,2
+2015,10,24,"N.C. A&T","Howard","H",65,14,NA,2
+2015,10,31,"N.C. A&T","Florida A&M","V",28,10,NA,2
+2015,11,7,"N.C. A&T","South Carolina St.","V",9,6,NA,2
+2015,11,14,"N.C. A&T","Delaware St.","H",27,6,NA,2
+2015,11,21,"N.C. A&T","N.C. Central","H",16,21,NA,2
+2015,12,19,"N.C. A&T","Alcorn","N",41,34,NA,2
+2015,10,3,"N.C. Central","Bethune-Cookman","H",26,28,NA,2
+2015,10,10,"N.C. Central","Florida A&M","V",27,24,NA,2
+2015,10,17,"N.C. Central","Savannah St.","V",39,22,NA,2
+2015,10,24,"N.C. Central","Morgan St.","H",20,17,NA,2
+2015,10,31,"N.C. Central","Norfolk St.","H",24,16,NA,2
+2015,11,7,"N.C. Central","Delaware St.","H",43,10,NA,2
+2015,11,14,"N.C. Central","Howard","V",41,6,NA,2
+2015,11,21,"N.C. Central","N.C. A&T","V",21,16,NA,2
+2015,9,12,"New Hampshire","Colgate","V",26,8,NA,2
+2015,9,19,"New Hampshire","Stony Brook","V",6,31,NA,2
+2015,9,26,"New Hampshire","Central Conn. St.","H",57,14,NA,2
+2015,10,3,"New Hampshire","Elon","H",37,14,NA,2
+2015,10,17,"New Hampshire","William & Mary","V",18,34,NA,2
+2015,10,24,"New Hampshire","Delaware","V",14,31,NA,2
+2015,10,31,"New Hampshire","Rhode Island","H",20,17,NA,2
+2015,11,7,"New Hampshire","Richmond","H",30,25,NA,2
+2015,11,14,"New Hampshire","Albany (NY)","V",24,14,NA,2
+2015,11,21,"New Hampshire","Maine","H",22,6,NA,2
+2015,11,28,"New Hampshire","Colgate","H",20,27,NA,2
+2015,9,19,"Nicholls St.","Incarnate Word","V",10,20,NA,2
+2015,10,3,"Nicholls St.","McNeese","H",7,37,NA,2
+2015,10,10,"Nicholls St.","SFA","V",24,28,NA,2
+2015,10,17,"Nicholls St.","Houston Baptist","H",38,17,NA,2
+2015,10,24,"Nicholls St.","Sam Houston St.","V",7,37,NA,2
+2015,10,31,"Nicholls St.","Northwestern St.","H",21,37,NA,2
+2015,11,7,"Nicholls St.","Lamar University","V",30,28,NA,2
+2015,11,14,"Nicholls St.","Central Ark.","H",31,34,NA,2
+2015,11,19,"Nicholls St.","Southeastern La.","V",27,24,NA,2
+2015,9,26,"Norfolk St.","Hampton","H",24,14,NA,2
+2015,10,3,"Norfolk St.","Howard","V",15,12,NA,2
+2015,10,10,"Norfolk St.","N.C. A&T","H",3,27,NA,2
+2015,10,24,"Norfolk St.","Bethune-Cookman","V",49,59,NA,2
+2015,10,31,"Norfolk St.","N.C. Central","V",16,24,NA,2
+2015,11,7,"Norfolk St.","Savannah St.","H",20,17,1,2
+2015,11,14,"Norfolk St.","South Carolina St.","H",10,17,NA,2
+2015,11,21,"Norfolk St.","Morgan St.","V",17,10,NA,2
+2015,9,12,"North Dakota","Drake","H",21,18,NA,2
+2015,9,19,"North Dakota","North Dakota St.","V",9,34,NA,2
+2015,9,26,"North Dakota","UC Davis","H",31,24,NA,2
+2015,10,3,"North Dakota","Portland St.","V",19,17,NA,2
+2015,10,10,"North Dakota","Idaho St.","H",31,37,NA,2
+2015,10,17,"North Dakota","Weber St.","V",24,25,NA,2
+2015,10,24,"North Dakota","Montana","V",16,42,NA,2
+2015,10,31,"North Dakota","Montana St.","H",44,38,NA,2
+2015,11,14,"North Dakota","Northern Colo.","H",45,14,NA,2
+2015,11,21,"North Dakota","Cal Poly","V",45,21,NA,2
+2015,8,29,"North Dakota St.","Montana","V",35,38,NA,2
+2015,9,12,"North Dakota St.","Weber St.","H",41,14,NA,2
+2015,9,19,"North Dakota St.","North Dakota","H",34,9,NA,2
+2015,10,3,"North Dakota St.","South Dakota St.","V",28,7,NA,2
+2015,10,10,"North Dakota St.","UNI","H",31,28,NA,2
+2015,10,17,"North Dakota St.","South Dakota","H",21,24,NA,2
+2015,10,24,"North Dakota St.","Indiana St.","V",28,14,NA,2
+2015,10,31,"North Dakota St.","Southern Ill.","V",35,29,NA,2
+2015,11,7,"North Dakota St.","Western Ill.","H",59,7,NA,2
+2015,11,14,"North Dakota St.","Youngstown St.","V",27,24,NA,2
+2015,11,21,"North Dakota St.","Missouri St.","H",55,0,NA,2
+2015,12,5,"North Dakota St.","Montana","H",37,6,NA,2
+2015,12,12,"North Dakota St.","UNI","H",23,13,NA,2
+2015,12,18,"North Dakota St.","Richmond","H",33,7,NA,2
+2016,1,9,"North Dakota St.","Jacksonville St.","N",37,10,NA,2
+2015,9,5,"Northern Ariz.","SFA","V",34,28,NA,2
+2015,9,26,"Northern Ariz.","Montana","V",14,23,NA,2
+2015,10,3,"Northern Ariz.","Montana St.","H",49,41,NA,2
+2015,10,10,"Northern Ariz.","UC Davis","V",24,38,NA,2
+2015,10,24,"Northern Ariz.","Weber St.","H",52,36,NA,2
+2015,10,31,"Northern Ariz.","Northern Colo.","H",63,21,NA,2
+2015,11,7,"Northern Ariz.","Eastern Wash.","V",52,30,NA,2
+2015,11,14,"Northern Ariz.","Sacramento St.","H",49,35,NA,2
+2015,11,21,"Northern Ariz.","Southern Utah","V",41,49,NA,2
+2015,9,12,"Northern Colo.","Houston Baptist","V",34,10,NA,2
+2015,9,19,"Northern Colo.","Southern Utah","V",3,30,NA,2
+2015,9,26,"Northern Colo.","Weber St.","H",17,38,NA,2
+2015,10,3,"Northern Colo.","Sacramento St.","V",27,20,NA,2
+2015,10,17,"Northern Colo.","UC Davis","H",56,27,NA,2
+2015,10,24,"Northern Colo.","Eastern Wash.","H",41,43,NA,2
+2015,10,31,"Northern Colo.","Northern Ariz.","V",21,63,NA,2
+2015,11,7,"Northern Colo.","Portland St.","H",35,32,NA,2
+2015,11,14,"Northern Colo.","North Dakota","V",14,45,NA,2
+2015,11,21,"Northern Colo.","Abilene Christian","H",40,36,NA,2
+2015,9,3,"Northwestern St.","Southeastern La.","H",20,34,NA,2
+2015,9,26,"Northwestern St.","Central Ark.","H",21,49,NA,2
+2015,10,3,"Northwestern St.","Incarnate Word","V",31,45,NA,2
+2015,10,17,"Northwestern St.","Lamar University","H",48,35,NA,2
+2015,10,24,"Northwestern St.","McNeese","V",27,47,NA,2
+2015,10,31,"Northwestern St.","Nicholls St.","V",37,21,NA,2
+2015,11,7,"Northwestern St.","Abilene Christian","H",39,22,NA,2
+2015,11,14,"Northwestern St.","Sam Houston St.","V",21,59,NA,2
+2015,11,21,"Northwestern St.","SFA","H",33,17,NA,2
+2015,9,19,"Penn","Lehigh","V",21,42,NA,2
+2015,9,24,"Penn","Villanova","V",24,13,NA,2
+2015,10,3,"Penn","Dartmouth","H",20,41,NA,2
+2015,10,10,"Penn","Fordham","H",45,48,NA,2
+2015,10,17,"Penn","Columbia","V",42,7,NA,2
+2015,10,23,"Penn","Yale","H",34,20,NA,2
+2015,10,31,"Penn","Brown","V",48,28,NA,2
+2015,11,7,"Penn","Princeton","H",26,23,1,2
+2015,11,14,"Penn","Harvard","V",35,25,NA,2
+2015,11,21,"Penn","Cornell","H",34,21,NA,2
+2015,9,12,"Portland St.","Idaho St.","V",34,14,NA,2
+2015,10,3,"Portland St.","North Dakota","H",17,19,NA,2
+2015,10,17,"Portland St.","Montana St.","H",59,42,NA,2
+2015,10,24,"Portland St.","Cal Poly","V",38,35,NA,2
+2015,10,31,"Portland St.","Montana","H",35,16,NA,2
+2015,11,7,"Portland St.","Northern Colo.","V",32,35,NA,2
+2015,11,14,"Portland St.","Southern Utah","H",24,23,NA,2
+2015,11,21,"Portland St.","Eastern Wash.","V",34,31,NA,2
+2015,12,5,"Portland St.","UNI","H",17,29,NA,2
+2015,9,5,"Prairie View","Texas Southern","V",38,11,NA,2
+2015,9,19,"Prairie View","Alabama A&M","H",53,49,NA,2
+2015,9,26,"Prairie View","Grambling","H",54,70,NA,2
+2015,10,10,"Prairie View","Mississippi Val.","H",45,6,NA,2
+2015,10,17,"Prairie View","Southern U.","V",47,42,NA,2
+2015,10,31,"Prairie View","Ark.-Pine Bluff","H",54,29,NA,2
+2015,11,7,"Prairie View","Alcorn","V",40,34,NA,2
+2015,11,14,"Prairie View","Alabama St.","V",38,13,NA,2
+2015,11,21,"Prairie View","Jackson St.","H",56,14,NA,2
+2015,9,19,"Presbyterian","Campbell","H",23,13,NA,2
+2015,9,26,"Presbyterian","Chattanooga","H",0,21,NA,2
+2015,10,3,"Presbyterian","Western Caro.","V",21,33,NA,2
+2015,10,10,"Presbyterian","Coastal Caro.","V",17,24,NA,2
+2015,10,17,"Presbyterian","Charleston So.","H",7,10,NA,2
+2015,10,31,"Presbyterian","Gardner-Webb","H",10,14,NA,2
+2015,11,7,"Presbyterian","Liberty","V",13,21,NA,2
+2015,11,14,"Presbyterian","Monmouth","V",16,21,NA,2
+2015,11,21,"Presbyterian","Kennesaw St.","H",14,6,NA,2
+2015,9,19,"Princeton","Lafayette","V",40,7,NA,2
+2015,9,26,"Princeton","Lehigh","H",52,26,NA,2
+2015,10,2,"Princeton","Columbia","H",10,5,NA,2
+2015,10,10,"Princeton","Colgate","H",44,20,NA,2
+2015,10,17,"Princeton","Brown","V",31,38,NA,2
+2015,10,24,"Princeton","Harvard","V",7,42,NA,2
+2015,10,31,"Princeton","Cornell","H",47,21,NA,2
+2015,11,7,"Princeton","Penn","V",23,26,1,2
+2015,11,14,"Princeton","Yale","H",28,35,NA,2
+2015,11,21,"Princeton","Dartmouth","V",10,17,NA,2
+2015,9,12,"Rhode Island","Albany (NY)","V",7,35,NA,2
+2015,9,19,"Rhode Island","Harvard","H",10,41,NA,2
+2015,9,26,"Rhode Island","Maine","V",17,27,NA,2
+2015,10,3,"Rhode Island","Brown","V",31,41,NA,2
+2015,10,10,"Rhode Island","Delaware","H",20,0,NA,2
+2015,10,17,"Rhode Island","Richmond","H",12,37,NA,2
+2015,10,31,"Rhode Island","New Hampshire","V",17,20,NA,2
+2015,11,7,"Rhode Island","Villanova","H",3,24,NA,2
+2015,11,14,"Rhode Island","Stony Brook","H",7,19,NA,2
+2015,11,21,"Rhode Island","Towson","V",21,38,NA,2
+2015,9,12,"Richmond","Hampton","V",31,28,NA,2
+2015,9,19,"Richmond","VMI","H",42,10,NA,2
+2015,10,3,"Richmond","Maine","H",48,17,NA,2
+2015,10,10,"Richmond","Elon","H",27,14,NA,2
+2015,10,17,"Richmond","Rhode Island","V",37,12,NA,2
+2015,10,24,"Richmond","James Madison","V",59,49,NA,2
+2015,10,31,"Richmond","Albany (NY)","H",38,31,NA,2
+2015,11,7,"Richmond","New Hampshire","V",25,30,NA,2
+2015,11,14,"Richmond","Villanova","V",20,21,NA,2
+2015,11,21,"Richmond","William & Mary","H",20,9,NA,2
+2015,12,5,"Richmond","William & Mary","H",48,13,NA,2
+2015,12,11,"Richmond","Illinois St.","V",39,27,NA,2
+2015,12,18,"Richmond","North Dakota St.","V",7,33,NA,2
+2015,9,5,"Robert Morris","Dayton","H",24,27,NA,2
+2015,9,12,"Robert Morris","Youngstown St.","V",14,21,1,2
+2015,9,26,"Robert Morris","South Dakota St.","V",10,34,NA,2
+2015,10,3,"Robert Morris","Wagner","V",9,6,NA,2
+2015,10,10,"Robert Morris","Sacred Heart","H",13,26,NA,2
+2015,10,24,"Robert Morris","Duquesne","H",7,16,NA,2
+2015,10,31,"Robert Morris","Central Conn. St.","V",0,34,NA,2
+2015,11,7,"Robert Morris","ETSU","H",21,9,NA,2
+2015,11,14,"Robert Morris","Saint Francis (PA)","V",0,21,NA,2
+2015,11,21,"Robert Morris","Bryant","H",21,20,NA,2
+2015,9,5,"SFA","Northern Ariz.","H",28,34,NA,2
+2015,9,19,"SFA","McNeese","H",14,28,NA,2
+2015,9,26,"SFA","Abilene Christian","V",32,35,NA,2
+2015,10,3,"SFA","Sam Houston St.","N",28,34,NA,2
+2015,10,10,"SFA","Nicholls St.","H",28,24,NA,2
+2015,10,17,"SFA","Southeastern La.","V",28,27,NA,2
+2015,10,31,"SFA","Incarnate Word","H",55,21,NA,2
+2015,11,7,"SFA","Central Ark.","V",24,36,NA,2
+2015,11,14,"SFA","Houston Baptist","H",55,20,NA,2
+2015,11,21,"SFA","Northwestern St.","V",17,33,NA,2
+2015,9,19,"Sacramento St.","Weber St.","V",14,32,NA,2
+2015,9,26,"Sacramento St.","Eastern Wash.","H",20,28,NA,2
+2015,10,3,"Sacramento St.","Northern Colo.","H",20,27,NA,2
+2015,10,10,"Sacramento St.","Montana St.","V",13,35,NA,2
+2015,10,17,"Sacramento St.","Southern Utah","V",0,44,NA,2
+2015,10,24,"Sacramento St.","Idaho St.","H",38,13,NA,2
+2015,11,7,"Sacramento St.","Cal Poly","V",14,36,NA,2
+2015,11,14,"Sacramento St.","Northern Ariz.","V",35,49,NA,2
+2015,11,21,"Sacramento St.","UC Davis","H",21,35,NA,2
+2015,9,12,"Sacred Heart","Valparaiso","V",56,3,NA,2
+2015,9,19,"Sacred Heart","Marist","V",27,34,NA,2
+2015,9,26,"Sacred Heart","Dartmouth","V",7,49,NA,2
+2015,10,10,"Sacred Heart","Robert Morris","V",26,13,NA,2
+2015,10,17,"Sacred Heart","Cornell","H",31,6,NA,2
+2015,10,24,"Sacred Heart","Central Conn. St.","H",10,26,NA,2
+2015,10,31,"Sacred Heart","Saint Francis (PA)","V",14,23,NA,2
+2015,11,7,"Sacred Heart","Duquesne","H",14,41,NA,2
+2015,11,14,"Sacred Heart","Bryant","V",28,19,NA,2
+2015,11,21,"Sacred Heart","Wagner","H",45,17,NA,2
+2015,9,5,"Saint Francis (PA)","Georgetown","H",48,20,NA,2
+2015,9,12,"Saint Francis (PA)","Towson","V",20,35,NA,2
+2015,9,19,"Saint Francis (PA)","Youngstown St.","V",3,48,NA,2
+2015,10,3,"Saint Francis (PA)","ETSU","V",58,9,NA,2
+2015,10,17,"Saint Francis (PA)","Wagner","H",43,14,NA,2
+2015,10,24,"Saint Francis (PA)","Bryant","V",24,26,NA,2
+2015,10,31,"Saint Francis (PA)","Sacred Heart","H",23,14,NA,2
+2015,11,7,"Saint Francis (PA)","Central Conn. St.","V",22,13,NA,2
+2015,11,14,"Saint Francis (PA)","Robert Morris","H",21,0,NA,2
+2015,11,21,"Saint Francis (PA)","Duquesne","V",20,30,NA,2
+2015,9,19,"Sam Houston St.","Lamar University","H",46,49,NA,2
+2015,9,26,"Sam Houston St.","Houston Baptist","H",63,14,NA,2
+2015,10,3,"Sam Houston St.","SFA","N",34,28,NA,2
+2015,10,10,"Sam Houston St.","Incarnate Word","H",59,7,NA,2
+2015,10,17,"Sam Houston St.","Abilene Christian","V",49,21,NA,2
+2015,10,24,"Sam Houston St.","Nicholls St.","H",37,7,NA,2
+2015,11,7,"Sam Houston St.","McNeese","V",10,27,NA,2
+2015,11,14,"Sam Houston St.","Northwestern St.","H",59,21,NA,2
+2015,11,21,"Sam Houston St.","Central Ark.","V",42,13,NA,2
+2015,11,28,"Sam Houston St.","Southern Utah","H",42,39,NA,2
+2015,12,5,"Sam Houston St.","McNeese","V",34,29,NA,2
+2015,12,12,"Sam Houston St.","Colgate","H",48,21,NA,2
+2015,12,19,"Sam Houston St.","Jacksonville St.","V",10,62,NA,2
+2015,9,3,"Samford","Central Ark.","H",45,16,NA,2
+2015,9,12,"Samford","Florida A&M","H",58,21,NA,2
+2015,9,19,"Samford","Chattanooga","H",21,31,NA,2
+2015,10,10,"Samford","VMI","V",49,13,NA,2
+2015,10,17,"Samford","The Citadel","H",25,44,NA,2
+2015,10,24,"Samford","Western Caro.","V",36,56,NA,2
+2015,10,31,"Samford","Furman","H",17,20,NA,2
+2015,11,14,"Samford","Wofford","V",37,27,NA,2
+2015,11,21,"Samford","Mercer","V",47,21,NA,2
+2015,9,26,"San Diego","Valparaiso","V",38,6,NA,2
+2015,10,3,"San Diego","Marist","H",30,27,NA,2
+2015,10,10,"San Diego","Dayton","V",12,13,NA,2
+2015,10,17,"San Diego","Drake","H",27,0,NA,2
+2015,10,31,"San Diego","Stetson","V",47,16,NA,2
+2015,11,7,"San Diego","Campbell","H",31,27,NA,2
+2015,11,14,"San Diego","Davidson","V",35,10,NA,2
+2015,11,21,"San Diego","Butler","H",28,27,NA,2
+2015,9,26,"Savannah St.","Bethune-Cookman","V",12,42,NA,2
+2015,10,3,"Savannah St.","Florida A&M","H",37,27,NA,2
+2015,10,10,"Savannah St.","Morgan St.","V",3,42,NA,2
+2015,10,17,"Savannah St.","N.C. Central","H",22,39,NA,2
+2015,10,31,"Savannah St.","Howard","V",9,55,NA,2
+2015,11,7,"Savannah St.","Norfolk St.","V",17,20,1,2
+2015,11,14,"Savannah St.","Hampton","H",3,42,NA,2
+2015,11,21,"Savannah St.","South Carolina St.","H",29,52,NA,2
+2015,9,6,"South Carolina St.","Ark.-Pine Bluff","N",35,7,NA,2
+2015,9,12,"South Carolina St.","Coastal Caro.","H",14,41,NA,2
+2015,9,17,"South Carolina St.","Florida A&M","H",36,0,NA,2
+2015,10,3,"South Carolina St.","Furman","V",3,17,NA,2
+2015,10,8,"South Carolina St.","Bethune-Cookman","V",14,17,NA,2
+2015,10,17,"South Carolina St.","Howard","H",49,10,NA,2
+2015,10,24,"South Carolina St.","Delaware St.","V",34,7,NA,2
+2015,10,31,"South Carolina St.","Hampton","H",34,20,NA,2
+2015,11,7,"South Carolina St.","N.C. A&T","H",6,9,NA,2
+2015,11,14,"South Carolina St.","Norfolk St.","V",17,10,NA,2
+2015,11,21,"South Carolina St.","Savannah St.","V",52,29,NA,2
+2015,9,12,"South Dakota","UC Davis","V",27,17,NA,2
+2015,9,19,"South Dakota","Drake","H",52,0,NA,2
+2015,10,3,"South Dakota","Youngstown St.","H",3,31,NA,2
+2015,10,10,"South Dakota","Western Ill.","V",21,40,NA,2
+2015,10,17,"South Dakota","North Dakota St.","V",24,21,NA,2
+2015,10,24,"South Dakota","Missouri St.","H",40,10,NA,2
+2015,10,31,"South Dakota","UNI","V",7,20,NA,2
+2015,11,7,"South Dakota","Southern Ill.","H",34,31,NA,2
+2015,11,14,"South Dakota","South Dakota St.","H",23,30,NA,2
+2015,11,21,"South Dakota","Illinois St.","V",0,46,NA,2
+2015,9,12,"South Dakota St.","Southern Utah","H",55,10,NA,2
+2015,9,26,"South Dakota St.","Robert Morris","H",34,10,NA,2
+2015,10,3,"South Dakota St.","North Dakota St.","H",7,28,NA,2
+2015,10,10,"South Dakota St.","Indiana St.","H",24,7,NA,2
+2015,10,17,"South Dakota St.","Youngstown St.","V",38,8,NA,2
+2015,10,24,"South Dakota St.","UNI","H",7,10,NA,2
+2015,10,31,"South Dakota St.","Missouri St.","V",39,0,NA,2
+2015,11,7,"South Dakota St.","Illinois St.","H",25,20,NA,2
+2015,11,14,"South Dakota St.","South Dakota","V",30,23,NA,2
+2015,11,21,"South Dakota St.","Western Ill.","V",24,30,2,2
+2015,11,28,"South Dakota St.","Montana","V",17,24,NA,2
+2015,9,12,"Southeast Mo. St.","Southern Ill.","H",27,24,NA,2
+2015,9,19,"Southeast Mo. St.","Indiana St.","V",28,29,NA,2
+2015,10,3,"Southeast Mo. St.","Murray St.","H",27,10,NA,2
+2015,10,10,"Southeast Mo. St.","Eastern Ill.","V",28,33,NA,2
+2015,10,17,"Southeast Mo. St.","Eastern Ky.","H",10,27,NA,2
+2015,10,31,"Southeast Mo. St.","Tennessee Tech","H",38,17,NA,2
+2015,11,7,"Southeast Mo. St.","Austin Peay","V",44,15,NA,2
+2015,11,14,"Southeast Mo. St.","Jacksonville St.","V",28,56,NA,2
+2015,11,21,"Southeast Mo. St.","UT Martin","H",25,28,NA,2
+2015,9,3,"Southeastern La.","Northwestern St.","V",34,20,NA,2
+2015,10,1,"Southeastern La.","Lamar University","H",30,27,NA,2
+2015,10,10,"Southeastern La.","McNeese","V",7,21,NA,2
+2015,10,17,"Southeastern La.","SFA","H",27,28,NA,2
+2015,10,24,"Southeastern La.","Houston Baptist","V",22,7,NA,2
+2015,10,31,"Southeastern La.","Central Ark.","V",16,21,NA,2
+2015,11,7,"Southeastern La.","Incarnate Word","H",2,16,NA,2
+2015,11,14,"Southeastern La.","Abilene Christian","V",17,21,NA,2
+2015,11,19,"Southeastern La.","Nicholls St.","H",24,27,NA,2
+2015,9,12,"Southern Ill.","Southeast Mo. St.","V",24,27,NA,2
+2015,9,26,"Southern Ill.","Liberty","H",34,13,NA,2
+2015,10,3,"Southern Ill.","Western Ill.","V",36,37,NA,2
+2015,10,10,"Southern Ill.","Missouri St.","H",73,26,NA,2
+2015,10,17,"Southern Ill.","Indiana St.","V",36,39,NA,2
+2015,10,24,"Southern Ill.","Youngstown St.","H",38,31,1,2
+2015,10,31,"Southern Ill.","North Dakota St.","H",29,35,NA,2
+2015,11,7,"Southern Ill.","South Dakota","V",31,34,NA,2
+2015,11,14,"Southern Ill.","Illinois St.","H",21,42,NA,2
+2015,11,21,"Southern Ill.","UNI","V",28,49,NA,2
+2015,9,10,"Southern U.","Mississippi Val.","V",50,13,NA,2
+2015,9,19,"Southern U.","Jackson St.","H",50,31,NA,2
+2015,10,10,"Southern U.","Alabama St.","V",45,34,NA,2
+2015,10,17,"Southern U.","Prairie View","H",42,47,NA,2
+2015,10,24,"Southern U.","Texas Southern","V",40,21,NA,2
+2015,10,31,"Southern U.","Alcorn","H",7,48,NA,2
+2015,11,7,"Southern U.","Ark.-Pine Bluff","V",57,24,NA,2
+2015,11,14,"Southern U.","Alabama A&M","H",46,7,NA,2
+2015,11,28,"Southern U.","Grambling","N",23,34,NA,2
+2015,9,12,"Southern Utah","South Dakota St.","V",10,55,NA,2
+2015,9,19,"Southern Utah","Northern Colo.","H",30,3,NA,2
+2015,10,2,"Southern Utah","Weber St.","V",44,0,NA,2
+2015,10,17,"Southern Utah","Sacramento St.","H",44,0,NA,2
+2015,10,24,"Southern Utah","UC Davis","V",34,6,NA,2
+2015,10,31,"Southern Utah","Cal Poly","H",54,37,NA,2
+2015,11,7,"Southern Utah","Montana St.","V",34,23,NA,2
+2015,11,14,"Southern Utah","Portland St.","V",23,24,NA,2
+2015,11,21,"Southern Utah","Northern Ariz.","H",49,41,NA,2
+2015,11,28,"Southern Utah","Sam Houston St.","V",39,42,NA,2
+2015,9,12,"Stetson","Mercer","V",14,57,NA,2
+2015,9,26,"Stetson","Drake","V",3,41,NA,2
+2015,10,3,"Stetson","Dayton","H",14,27,NA,2
+2015,10,10,"Stetson","Jacksonville","V",14,41,NA,2
+2015,10,17,"Stetson","Campbell","H",6,16,NA,2
+2015,10,24,"Stetson","Valparaiso","V",37,14,NA,2
+2015,10,31,"Stetson","San Diego","H",16,47,NA,2
+2015,11,7,"Stetson","Marist","V",14,49,NA,2
+2015,11,21,"Stetson","Davidson","H",17,20,NA,2
+2015,9,12,"Stony Brook","Central Conn. St.","H",38,9,NA,2
+2015,9,19,"Stony Brook","New Hampshire","H",31,6,NA,2
+2015,9,26,"Stony Brook","William & Mary","V",0,21,NA,2
+2015,10,3,"Stony Brook","James Madison","V",20,38,NA,2
+2015,10,17,"Stony Brook","Towson","H",14,21,NA,2
+2015,10,24,"Stony Brook","Maine","V",10,23,NA,2
+2015,10,31,"Stony Brook","Elon","H",7,21,NA,2
+2015,11,7,"Stony Brook","Howard","H",14,9,NA,2
+2015,11,14,"Stony Brook","Rhode Island","V",19,7,NA,2
+2015,11,21,"Stony Brook","Albany (NY)","H",20,2,NA,2
+2015,9,6,"Tennessee St.","Alabama St.","H",24,14,NA,2
+2015,9,12,"Tennessee St.","Jackson St.","N",35,25,NA,2
+2015,9,19,"Tennessee St.","Jacksonville St.","V",13,48,NA,2
+2015,9,26,"Tennessee St.","Florida A&M","V",30,14,NA,2
+2015,10,10,"Tennessee St.","UT Martin","V",14,28,NA,2
+2015,10,17,"Tennessee St.","Eastern Ill.","H",22,25,1,2
+2015,10,24,"Tennessee St.","Eastern Ky.","V",21,45,NA,2
+2015,10,31,"Tennessee St.","Austin Peay","H",20,6,NA,2
+2015,11,7,"Tennessee St.","Murray St.","H",43,46,1,2
+2015,11,21,"Tennessee St.","Tennessee Tech","V",24,30,NA,2
+2015,9,12,"Tennessee Tech","Wofford","V",14,34,NA,2
+2015,9,19,"Tennessee Tech","Mercer","H",29,22,NA,2
+2015,9,26,"Tennessee Tech","Murray St.","V",31,29,NA,2
+2015,10,3,"Tennessee Tech","UT Martin","H",17,31,NA,2
+2015,10,8,"Tennessee Tech","Eastern Ky.","N",17,48,NA,2
+2015,10,17,"Tennessee Tech","Jacksonville St.","H",13,42,NA,2
+2015,10,24,"Tennessee Tech","Eastern Ill.","V",20,51,NA,2
+2015,10,31,"Tennessee Tech","Southeast Mo. St.","V",17,38,NA,2
+2015,11,14,"Tennessee Tech","Austin Peay","H",42,24,NA,2
+2015,11,21,"Tennessee Tech","Tennessee St.","H",30,24,NA,2
+2015,9,5,"Texas Southern","Prairie View","H",11,38,NA,2
+2015,9,19,"Texas Southern","Ark.-Pine Bluff","V",24,20,NA,2
+2015,9,26,"Texas Southern","Jackson St.","V",30,34,NA,2
+2015,10,1,"Texas Southern","Alabama St.","H",23,41,NA,2
+2015,10,17,"Texas Southern","Mississippi Val.","V",49,21,NA,2
+2015,10,24,"Texas Southern","Southern U.","H",21,40,NA,2
+2015,11,7,"Texas Southern","Grambling","N",15,41,NA,2
+2015,11,14,"Texas Southern","Alcorn","H",13,65,NA,2
+2015,11,28,"Texas Southern","Alabama A&M","V",7,38,NA,2
+2015,9,5,"The Citadel","Davidson","H",69,0,NA,2
+2015,9,12,"The Citadel","Western Caro.","H",28,10,NA,2
+2015,9,26,"The Citadel","Charleston So.","H",20,33,NA,2
+2015,10,10,"The Citadel","Wofford","H",39,12,NA,2
+2015,10,17,"The Citadel","Samford","V",44,25,NA,2
+2015,10,24,"The Citadel","Furman","V",38,17,NA,2
+2015,10,31,"The Citadel","Mercer","H",21,19,NA,2
+2015,11,7,"The Citadel","VMI","H",35,14,NA,2
+2015,11,14,"The Citadel","Chattanooga","V",23,31,NA,2
+2015,11,28,"The Citadel","Coastal Caro.","V",41,38,NA,2
+2015,12,5,"The Citadel","Charleston So.","V",6,14,NA,2
+2015,9,12,"Towson","Saint Francis (PA)","H",35,20,NA,2
+2015,9,19,"Towson","Holy Cross","H",29,26,NA,2
+2015,9,26,"Towson","Elon","V",13,17,NA,2
+2015,10,10,"Towson","James Madison","H",30,51,NA,2
+2015,10,17,"Towson","Stony Brook","V",21,14,NA,2
+2015,10,24,"Towson","Villanova","H",28,21,NA,2
+2015,10,31,"Towson","Delaware","H",19,0,NA,2
+2015,11,7,"Towson","Maine","V",10,7,NA,2
+2015,11,14,"Towson","William & Mary","V",17,31,NA,2
+2015,11,21,"Towson","Rhode Island","H",38,21,NA,2
+2015,9,12,"UC Davis","South Dakota","H",17,27,NA,2
+2015,9,26,"UC Davis","North Dakota","V",24,31,NA,2
+2015,10,3,"UC Davis","Montana","H",13,27,NA,2
+2015,10,10,"UC Davis","Northern Ariz.","H",38,24,NA,2
+2015,10,17,"UC Davis","Northern Colo.","V",27,56,NA,2
+2015,10,24,"UC Davis","Southern Utah","H",6,34,NA,2
+2015,11,7,"UC Davis","Weber St.","V",3,23,NA,2
+2015,11,14,"UC Davis","Cal Poly","H",38,55,NA,2
+2015,11,21,"UC Davis","Sacramento St.","V",35,21,NA,2
+2015,9,12,"UNI","Eastern Wash.","H",38,35,NA,2
+2015,9,19,"UNI","Cal Poly","V",34,20,NA,2
+2015,10,3,"UNI","Illinois St.","V",13,21,NA,2
+2015,10,10,"UNI","North Dakota St.","V",28,31,NA,2
+2015,10,17,"UNI","Western Ill.","H",19,24,NA,2
+2015,10,24,"UNI","South Dakota St.","V",10,7,NA,2
+2015,10,31,"UNI","South Dakota","H",20,7,NA,2
+2015,11,7,"UNI","Indiana St.","H",59,13,NA,2
+2015,11,14,"UNI","Missouri St.","V",41,0,NA,2
+2015,11,21,"UNI","Southern Ill.","H",49,28,NA,2
+2015,11,28,"UNI","Eastern Ill.","H",53,17,NA,2
+2015,12,5,"UNI","Portland St.","V",29,17,NA,2
+2015,12,12,"UNI","North Dakota St.","V",13,23,NA,2
+2015,9,26,"UT Martin","Jacksonville St.","H",41,48,NA,2
+2015,10,3,"UT Martin","Tennessee Tech","V",31,17,NA,2
+2015,10,10,"UT Martin","Tennessee St.","H",28,14,NA,2
+2015,10,17,"UT Martin","Austin Peay","V",44,14,NA,2
+2015,10,24,"UT Martin","Murray St.","H",52,45,NA,2
+2015,11,7,"UT Martin","Eastern Ky.","V",42,35,NA,2
+2015,11,14,"UT Martin","Eastern Ill.","H",21,23,NA,2
+2015,11,21,"UT Martin","Southeast Mo. St.","V",28,25,NA,2
+2015,9,12,"VMI","Morehead St.","H",43,40,NA,2
+2015,9,19,"VMI","Richmond","V",10,42,NA,2
+2015,9,26,"VMI","Furman","V",21,24,NA,2
+2015,10,3,"VMI","Bucknell","H",22,28,1,2
+2015,10,10,"VMI","Samford","H",13,49,NA,2
+2015,10,17,"VMI","Chattanooga","H",27,33,NA,2
+2015,10,24,"VMI","Mercer","V",28,21,NA,2
+2015,10,31,"VMI","Wofford","H",20,41,NA,2
+2015,11,7,"VMI","The Citadel","V",14,35,NA,2
+2015,11,21,"VMI","Western Caro.","H",20,24,NA,2
+2015,9,3,"Valparaiso","Eastern Ky.","V",10,52,NA,2
+2015,9,12,"Valparaiso","Sacred Heart","H",3,56,NA,2
+2015,9,26,"Valparaiso","San Diego","H",6,38,NA,2
+2015,10,3,"Valparaiso","Davidson","V",42,35,NA,2
+2015,10,10,"Valparaiso","Drake","V",7,34,NA,2
+2015,10,17,"Valparaiso","Dayton","H",14,44,NA,2
+2015,10,24,"Valparaiso","Stetson","H",14,37,NA,2
+2015,11,7,"Valparaiso","Butler","V",21,42,NA,2
+2015,11,14,"Valparaiso","Morehead St.","H",29,36,NA,2
+2015,11,21,"Valparaiso","Jacksonville","V",13,58,NA,2
+2015,9,12,"Villanova","Fordham","V",14,7,NA,2
+2015,9,19,"Villanova","Delaware","H",28,21,NA,2
+2015,9,24,"Villanova","Penn","H",13,24,NA,2
+2015,10,10,"Villanova","William & Mary","H",16,38,NA,2
+2015,10,17,"Villanova","Albany (NY)","V",37,0,NA,2
+2015,10,24,"Villanova","Towson","V",21,28,NA,2
+2015,10,31,"Villanova","Maine","H",13,3,NA,2
+2015,11,7,"Villanova","Rhode Island","V",24,3,NA,2
+2015,11,14,"Villanova","Richmond","H",21,20,NA,2
+2015,11,21,"Villanova","James Madison","V",29,38,NA,2
+2015,9,19,"Wagner","Monmouth","H",16,31,NA,2
+2015,9,26,"Wagner","Lafayette","H",24,35,NA,2
+2015,10,3,"Wagner","Robert Morris","H",6,9,NA,2
+2015,10,10,"Wagner","Columbia","V",3,26,NA,2
+2015,10,17,"Wagner","Saint Francis (PA)","V",14,43,NA,2
+2015,10,31,"Wagner","Duquesne","V",17,35,NA,2
+2015,11,7,"Wagner","Bryant","H",10,40,NA,2
+2015,11,14,"Wagner","Central Conn. St.","H",28,7,NA,2
+2015,11,21,"Wagner","Sacred Heart","V",17,45,NA,2
+2015,9,12,"Weber St.","North Dakota St.","V",14,41,NA,2
+2015,9,19,"Weber St.","Sacramento St.","H",32,14,NA,2
+2015,9,26,"Weber St.","Northern Colo.","V",38,17,NA,2
+2015,10,2,"Weber St.","Southern Utah","H",0,44,NA,2
+2015,10,10,"Weber St.","Montana","V",24,21,1,2
+2015,10,17,"Weber St.","North Dakota","H",25,24,NA,2
+2015,10,24,"Weber St.","Northern Ariz.","V",36,52,NA,2
+2015,10,31,"Weber St.","Eastern Wash.","V",13,14,NA,2
+2015,11,7,"Weber St.","UC Davis","H",23,3,NA,2
+2015,11,21,"Weber St.","Idaho St.","H",35,14,NA,2
+2015,9,12,"Western Caro.","The Citadel","V",10,28,NA,2
+2015,10,3,"Western Caro.","Presbyterian","H",33,21,NA,2
+2015,10,10,"Western Caro.","Mercer","H",24,21,NA,2
+2015,10,17,"Western Caro.","Wofford","V",24,17,NA,2
+2015,10,24,"Western Caro.","Samford","H",56,36,NA,2
+2015,10,31,"Western Caro.","Chattanooga","V",13,41,NA,2
+2015,11,7,"Western Caro.","Furman","H",48,10,NA,2
+2015,11,21,"Western Caro.","VMI","V",24,20,NA,2
+2015,9,3,"Western Ill.","Eastern Ill.","H",33,5,NA,2
+2015,9,19,"Western Ill.","Coastal Caro.","V",27,34,NA,2
+2015,10,3,"Western Ill.","Southern Ill.","H",37,36,NA,2
+2015,10,10,"Western Ill.","South Dakota","H",40,21,NA,2
+2015,10,17,"Western Ill.","UNI","V",24,19,NA,2
+2015,10,24,"Western Ill.","Illinois St.","V",28,48,NA,2
+2015,10,31,"Western Ill.","Youngstown St.","H",21,23,NA,2
+2015,11,7,"Western Ill.","North Dakota St.","V",7,59,NA,2
+2015,11,14,"Western Ill.","Indiana St.","V",37,30,1,2
+2015,11,21,"Western Ill.","South Dakota St.","H",30,24,2,2
+2015,11,28,"Western Ill.","Dayton","V",24,7,NA,2
+2015,12,5,"Western Ill.","Illinois St.","V",19,36,NA,2
+2015,9,5,"William & Mary","Lafayette","V",34,7,NA,2
+2015,9,26,"William & Mary","Stony Brook","H",21,0,NA,2
+2015,10,3,"William & Mary","Delaware","V",23,24,NA,2
+2015,10,10,"William & Mary","Villanova","V",38,16,NA,2
+2015,10,17,"William & Mary","New Hampshire","H",34,18,NA,2
+2015,10,24,"William & Mary","Hampton","H",40,7,NA,2
+2015,10,31,"William & Mary","James Madison","H",44,41,NA,2
+2015,11,7,"William & Mary","Elon","V",34,13,NA,2
+2015,11,14,"William & Mary","Towson","H",31,17,NA,2
+2015,11,21,"William & Mary","Richmond","V",9,20,NA,2
+2015,11,28,"William & Mary","Duquesne","H",52,49,NA,2
+2015,12,5,"William & Mary","Richmond","V",13,48,NA,2
+2015,9,12,"Wofford","Tennessee Tech","H",34,14,NA,2
+2015,9,26,"Wofford","Gardner-Webb","H",16,0,NA,2
+2015,10,3,"Wofford","Mercer","V",34,33,1,2
+2015,10,10,"Wofford","The Citadel","V",12,39,NA,2
+2015,10,17,"Wofford","Western Caro.","H",17,24,NA,2
+2015,10,24,"Wofford","Chattanooga","H",17,20,NA,2
+2015,10,31,"Wofford","VMI","V",41,20,NA,2
+2015,11,14,"Wofford","Samford","H",27,37,NA,2
+2015,11,21,"Wofford","Furman","H",38,28,NA,2
+2015,9,19,"Yale","Colgate","V",29,28,NA,2
+2015,9,26,"Yale","Cornell","H",33,26,NA,2
+2015,10,3,"Yale","Lehigh","V",27,12,NA,2
+2015,10,10,"Yale","Dartmouth","V",3,35,NA,2
+2015,10,17,"Yale","Maine","V",21,10,NA,2
+2015,10,23,"Yale","Penn","V",20,34,NA,2
+2015,10,31,"Yale","Columbia","H",7,17,NA,2
+2015,11,7,"Yale","Brown","H",41,14,NA,2
+2015,11,14,"Yale","Princeton","V",35,28,NA,2
+2015,11,21,"Yale","Harvard","H",19,38,NA,2
+2015,9,12,"Youngstown St.","Robert Morris","H",21,14,1,2
+2015,9,19,"Youngstown St.","Saint Francis (PA)","H",48,3,NA,2
+2015,10,3,"Youngstown St.","South Dakota","V",31,3,NA,2
+2015,10,10,"Youngstown St.","Illinois St.","H",29,31,NA,2
+2015,10,17,"Youngstown St.","South Dakota St.","H",8,38,NA,2
+2015,10,24,"Youngstown St.","Southern Ill.","V",31,38,1,2
+2015,10,31,"Youngstown St.","Western Ill.","V",23,21,NA,2
+2015,11,7,"Youngstown St.","Missouri St.","H",47,7,NA,2
+2015,11,14,"Youngstown St.","North Dakota St.","H",24,27,NA,2
+2015,11,21,"Youngstown St.","Indiana St.","V",24,27,NA,2
